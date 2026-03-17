@@ -1,5 +1,5 @@
 
-#Credi Card Analysis on PowerBI
+Credit Card Analysis on PowerBI
 
 📌 Problem Statement
 
